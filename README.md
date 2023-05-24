@@ -1,5 +1,5 @@
 checkout live:
-github-sercher.netlify.app
+https://github-sercher.netlify.app/
 
 
 
