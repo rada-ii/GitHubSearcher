@@ -11,14 +11,13 @@ A simple web application for searching and displaying GitHub repositories by use
 - Search GitHub users by username
 - Display user's repositories
 - View repository details and statistics
-- Responsive design for all devices
 - Real-time data from GitHub API
 
 ## 🛠️ Technologies
 
 - **JavaScript (ES6+)** - Core functionality
 - **jQuery** - DOM manipulation and AJAX
-- **CSS3** - Styling and responsive design
+- **CSS3** - Styling
 - **HTML5** - Structure
 - **GitHub API** - User data source
 - **Netlify** - Deployment
@@ -44,7 +43,7 @@ A simple web application for searching and displaying GitHub repositories by use
 1. Enter a GitHub username in the search field
 2. Click search or press Enter
 3. Browse through the user's repositories
-4. View repository details like stars, forks, and languages
+4. View repository details
 
 ## 📁 Project Structure
 
@@ -60,8 +59,7 @@ GitHubSearcher/
 
 - **GitHub API Integration** - Fetches user repositories
 - **jQuery Implementation** - Smooth user interactions
-- **Responsive Design** - Works on mobile and desktop
-- **Repository Details** - Shows stars, forks, and languages
+- **Repository Details** - Shows stars,..
 
 ## 👩‍💻 Author
 
