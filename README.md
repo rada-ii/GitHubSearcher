@@ -4,7 +4,10 @@ A simple web application for searching and displaying GitHub repositories by use
 
 ## 🚀 Live Demo
 
-**🌐 [View Live Application](https://github-sercher.netlify.app/)**
+
+<a href="https://github-sercher.netlify.app/" target="_blank" rel="noopener noreferrer">
+    🌐 View Live Application
+</a>
 
 ## ✨ Features
 
